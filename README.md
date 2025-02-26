@@ -10,8 +10,8 @@ Software engineering plays a crucial role in the technology industry by enabling
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 the development of programming languages
-the establishment of software engineering as a discipline in the 1960s
-the advent of structured programming in the 1970s
+the establishment of software engineering as a discipline in the 1960s.
+the advent of structured programming in the 1970s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirements: Gathering and documenting user needs and system requirements.
